@@ -1,4 +1,4 @@
-# Yle – Vieraskieliset varhaiskasvatuksessa
+# Ylen tehtävä: Vieraskieliset varhaiskasvatuksessa
 
 Simple search tool built with **Vite + React** for the Yle coding assignment.
 
@@ -31,4 +31,8 @@ Only year **2024** and age group **Yhteensä** are used in this demo.
 
 ```bash
 npm install
+
+
+
+<img width="926" height="479" alt="image" src="https://github.com/user-attachments/assets/5554a96d-5ea0-447a-a3ac-9b37148ebd3f" />
 
