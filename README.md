@@ -32,5 +32,6 @@ Only year **2024** and age group **Yhteensä** are used in this demo.
 ```bash
 npm install
 
+![App screenshot](public/kuva.png)
 
 
