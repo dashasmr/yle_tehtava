@@ -13,7 +13,7 @@ function App() {
 
   // Haetaan Tilastokeskuksen CSV ja parsitaan se
   useEffect(() => {
-    fetch("/data.csv")
+    fetch("data.csv")
       .then((res) => res.arrayBuffer())
       .then((buffer) => {
         // ISO-8859-1 → oikeat skandit
